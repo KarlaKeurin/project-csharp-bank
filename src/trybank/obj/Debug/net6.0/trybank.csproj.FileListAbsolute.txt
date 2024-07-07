@@ -1,0 +1,15 @@
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.deps.json
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.runtimeconfig.json
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/ref/trybank.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/bin/Debug/net6.0/trybank.pdb
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.csproj.AssemblyReference.cache
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.GeneratedMSBuildEditorConfig.editorconfig
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.AssemblyInfoInputs.cache
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.AssemblyInfo.cs
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.csproj.CoreCompileInputs.cache
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/ref/trybank.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.pdb
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-trybank/src/trybank/obj/Debug/net6.0/trybank.genruntimeconfig.cache
